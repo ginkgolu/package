@@ -1,5 +1,5 @@
 package pac
 
 func SomeFunction() string {
-	return "this is vonder"
+	return "this is vendor"
 }
