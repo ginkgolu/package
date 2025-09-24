@@ -2,5 +2,5 @@ package pac
 
 func SomeFunction() string {
 	return "this is vendor"
-	// jklfda
+	// 这是在test分支增加的代码
 }
